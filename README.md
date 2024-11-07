@@ -1,6 +1,7 @@
 # Documentação de APIs ASP.NET com Swagger
 
 Este repositório contém exemplos de código para documentar APIs ASP.NET usando o Swagger, abordando desde a configuração inicial até a personalização de documentação e autenticação com JWT.
+[Artigo completo](https://www.linkedin.com/pulse/documentando-apis-aspnet-com-swagger-jos%25C3%25A9-augusto-carvalho-ktaxf)
 
 ## Visão Geral
 
