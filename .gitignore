@@ -1,0 +1,75 @@
+# Arquivos de configuração do Visual Studio
+.vscode/
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Diretórios de build
+[Bb]in/
+[Oo]bj/
+
+# Arquivos de publicação
+*.publish/
+.publish/
+
+# Logs, dados de usuário, cache, pacotes e outros arquivos gerados
+*.log
+*.nupkg
+*.snupkg
+*.pdb
+*.cache
+*.idea/
+_ReSharper*/
+
+# Diretórios do NuGet e pacotes
+*.nuget/
+packages/
+*.dll
+*.exe
+*.app/
+*.app/
+
+# Configurações temporárias, arquivos temporários
+tmp/
+*.tmp
+*.temp
+*.cache
+
+# Diretórios de configuração de debug e release
+Debug/
+Release/
+x64/
+x86/
+
+# Diretórios de dependências de pacotes gerados
+node_modules/
+bower_components/
+
+# Configurações específicas de usuário
+*.vsconfig
+.vscode/
+*.launchsettings.json
+
+# Arquivos de backup temporários
+*.bak
+*.swp
+*~
+
+# Arquivos de cache e index do Rider
+.idea/
+.idea/*
+
+# Arquivos de banco de dados locais
+*.mdf
+*.ldf
+
+# Certificados locais
+*.pfx
+*.p12
+
+# Configurações locais
+appsettings.*.json
+appsettings.Development.json
+appsettings.local.json
